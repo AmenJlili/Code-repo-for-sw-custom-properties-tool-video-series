@@ -10,6 +10,7 @@ namespace SWXSTANDALONE
     public class CustomPropertyObject
     {
 
+
         public string Name { get; set; }
         public string Value { get; set; }
         public bool Delete { get; set; }
